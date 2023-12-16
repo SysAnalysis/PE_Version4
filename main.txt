@@ -6,7 +6,5 @@ int main(){
 
 
 cout << "github is fun edited by dev"
-cout << "welcome to git hub"
-
-cout<<"multiply";
+cout << "welcome to git"
 }
