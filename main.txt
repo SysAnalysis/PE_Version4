@@ -5,6 +5,8 @@ using namespace std;
 int main(){
 
 
-cout << "github is fun edited by dev"
-cout << "welcome to git"
+
+cout << "github is fun master edited"
+cout << "changed to diff"
+
 }
