@@ -6,7 +6,7 @@ int main(){
 
 
 cout << "github is fun master edited"
-cout << "welcome to git hub"
+cout << "changed to diff"
 
 
 }
