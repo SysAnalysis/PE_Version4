@@ -7,6 +7,7 @@ int main(){
 
 
 cout << "github is fun master edited"
-cout << "changed sum to diff"
+
+cout << "changed to sum to multi"
 
 }
