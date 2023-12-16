@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 
-
+cout<<"i'm sondos" 
 cout << "github is fun master edited"
 cout << "welcome to git hub"
 
